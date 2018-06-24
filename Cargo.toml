@@ -1,0 +1,6 @@
+[package]
+name = "grpc-sample"
+version = "0.1.0"
+authors = ["nrskt <norisuke@curama.jp>"]
+
+[dependencies]
